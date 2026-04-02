@@ -1,73 +1,34 @@
-# 🎙️ Hindi Speech-Based Emotion Recognition & Transcription System
-
-A Machine Learning powered web application that converts **Hindi speech to text** and simultaneously detects the **speaker's emotional state** from the audio signal.
-
-This project combines **Speech Processing, Natural Language Processing, and Machine Learning** to build an intelligent system capable of understanding **both what is spoken and how it is spoken**.
-
-The system is built using **Python, Flask, and Machine Learning models** to provide real-time transcription and emotion classification.
+<h1 align="center">Hi 👋, I'm Abhinavkumar Patel</h1>
+<h3 align="center">Computer Science Student | Machine Learning Enthusiast | Python Developer</h3>
 
 ---
 
-# 📌 Project Overview
-
-Human speech contains not only words but also emotional cues. This project aims to build a system that:
-
-- Accepts **Hindi speech input**
-- Converts speech to **text transcription**
-- Detects **emotional tone** in the audio
-- Displays both results through a **web interface**
-
-The system is useful in applications such as:
-
-- Customer service analytics
-- Mental health monitoring
-- Smart assistants
-- Call center emotion analysis
-- Human-computer interaction systems
+## 🚀 About Me
+🎓 MCA Student  
+💻 Passionate about **Machine Learning, Data Science, and Web Development**  
+🧠 Interested in building **AI-powered intelligent systems**  
+🌐 Experienced with **Python, Flask, and ML-based web applications**  
+🎨 Freelance **Thumbnail, Poster & Banner Designer**
 
 ---
 
-# ✨ Features
+## 🧑‍💻 Current Focus
 
-- 🎤 **Hindi Speech Recognition**
-- 😊 **Emotion Detection from Voice**
-- 🌐 **Web-based Interface using Flask**
-- ⚡ **Real-time processing**
-- 📊 **Machine Learning based predictions**
-- 🧠 Supports multiple emotions such as:
-  - Happy
-  - Sad
-  - Angry
-  - Neutral
-  - Fear
-  - Surprise
+- 🤖 Machine Learning Projects  
+- 📊 Data Analysis & Visualization  
+- 🌐 Flask Based Web Applications  
+- 🎙️ Speech Recognition & Emotion Detection Systems  
 
 ---
 
-# 🛠️ Tech Stack
+## 📌 Major Project
 
-### Programming Language
-- Python
+**Hindi Speech-Based Emotion Recognition and Transcription System Using Machine Learning**
 
-### Framework
-- Flask
+Features:
+- 🎤 Hindi Speech to Text
+- 😃 Emotion Detection from Audio
+- 🧠 Machine Learning Model Integration
+- 🌐 Flask Based Web Interface
 
-### Machine Learning
-- Scikit-learn
-- Librosa
-- NumPy
-- Pandas
-
-### Speech Processing
-- SpeechRecognition
-- PyAudio / SoundDevice
-- Librosa
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
----
-
-# 🧠 System Architecture
+Technologies Used:
